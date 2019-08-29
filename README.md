@@ -24,6 +24,7 @@ There are many libraries that can be uploaded by drag and drop, but there was no
 jQuery > 2.0
 
 ## Install
+```
 <link href="/path/to/yourcss/drag-and-drop.css" rel="stylesheet">
 <script src="/path/to/yourjs/drag-and-drop.js" type="text/javascript"></script>
 
@@ -32,8 +33,7 @@ jQuery > 2.0
   <img src="">
   <input type="file" name="" class='js-dad-file'>
 </div>
-
-## Contribution
+```
 
 ## Licence
 
