@@ -18,7 +18,7 @@ There are many libraries that can be uploaded by drag and drop, but there was no
 
 
 ## Demo
-[demo](https://www.youtube.com/embed/eODAC0Vm6Es)
+[demo](https://www.youtube.com/watch?v=eODAC0Vm6Es)
 
 ## Requirement
 jQuery > 2.0
