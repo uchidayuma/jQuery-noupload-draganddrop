@@ -1,6 +1,6 @@
 $(function () {
   //画像ファイルプレビュー表示のイベント追加 fileを選択時に発火するイベントを登録
-  $(document).on('change', '.js-file', function (e) {
+  $(document).on('change', '.js-dad-file', function (e) {
     var file = e.target.files[0],
       reader = new FileReader(),
       // _preview = $(this).prev().children('img');
